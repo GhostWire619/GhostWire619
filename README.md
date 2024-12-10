@@ -1,6 +1,6 @@
-# 📚 Project Name
+# 📚 Hi, I'm Isack Lugata
 
-**Hi, I'm Isack Lugata**  
+**A full Stack developer from Tanzania**  
 
 ---
 A full Stack developer from Tanzania
