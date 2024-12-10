@@ -1,13 +1,9 @@
 # 📚 Project Name
 
-**A brief, catchy tagline about your project.**  
-
-[![Contributors](https://img.shields.io/github/contributors/your-username/your-repo)](https://github.com/your-username/your-repo/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/your-username/your-repo)](https://github.com/your-username/your-repo/network/members)
-[![Stars](https://img.shields.io/github/stars/your-username/your-repo)](https://github.com/your-username/your-repo/stargazers)
-[![License](https://img.shields.io/github/license/your-username/your-repo)](https://github.com/your-username/your-repo/blob/main/LICENSE)
+** Hi, I'm Isack Lugata**  
 
 ---
+A full Stack developer from Tanzania
 
 ## 🚀 About the Project
 
