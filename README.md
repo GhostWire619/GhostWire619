@@ -1,54 +1,31 @@
-#                     📚 Hi, I'm Isack Lugata
+# 👋 Hello, I'm Isack Lugata!
 
-          **A full Stack developer from Tanzania**  
+Welcome to my GitHub profile! Here's a little bit about me:
 
----
-A full Stack developer from Tanzania
+## 🚀 About Me
+- 🎓 **Education:** [Your degree or field of study]
+- 💼 **Current Role:** [Your job title and company]
+- 🌱 **Currently Learning:** python(for A.I), react native
+- 🎯 **Goals for 2025:**  To be able to build and train A.I models
+- 💡 **Fun Fact:** I'm short
 
-## 🚀 About the Project
+## 🛠️ Tech Stack
+- **Languages:** Pyhon Javascript Java C++
+- **Frameworks & Libraries:** Flask React 
+- **Tools:** 
 
-### What does this project do?
+## 🌟 Projects
+- [Project 1 Name](link): Brief description of the project.
+- [Project 2 Name](link): Brief description of the project.
 
-A clear and concise description of the project:  
-- Feature 1
-- Feature 2
-- Highlighted purpose of the project  
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical)
 
-### Why this project?
+## 🌐 Connect with Me
+- [Portfolio](link)
+- [LinkedIn](link)
+- [Twitter](link)
 
-Explain what problem this project solves or its inspiration.
+Thank you for visiting my profile! 😊
 
----
 
-## 🛠️ Built With
-
-- [Technology/Framework 1](https://example.com)  
-- [Technology/Framework 2](https://example.com)  
-- [Technology/Framework 3](https://example.com)  
-
----
-
-## 📸 Screenshots
-
-### Main Page:
-![Screenshot](link-to-image)
-
-### Feature Showcase:
-![Screenshot](link-to-image)
-
----
-
-## 🔧 Installation
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/your-repo.git
-
-# Navigate to the project directory
-cd your-repo
-
-# Install dependencies
-npm install
-
-# Run the app
-npm start
