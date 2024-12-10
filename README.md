@@ -19,7 +19,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 - [Project 2 Name](link): Brief description of the project.
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=<Ghostwire619>&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghostwire619&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
 - [Portfolio](link)
