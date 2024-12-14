@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! Here's a little bit about me:
 
 ## 🚀 About Me
-- 🎓 **Education:** [Your degree or field of study]
-- 💼 **Current Role:** [Your job title and company]
+- 🎓 **Education:** 2nd year Computer science student
+- 💼 **Current Role:** full stack developer
 - 🌱 **Currently Learning:** python(for A.I), react native
 - 🎯 **Goals for 2025:**  To be able to build and train A.I models
 - 💡 **Fun Fact:** I'm short
