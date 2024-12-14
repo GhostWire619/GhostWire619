@@ -28,7 +28,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 ## 🌐 Connect with Me
 - [Portfolio](link)
 - [LinkedIn](https://www.linkedin.com/in/isack-lugata-a6356531a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bks2KoomqRFyskYDGDNwZiQ%3D%3)
-- [Twitter](link)
+- [Twitter](https://x.com/ZacFrostt)
 
 Thank you for visiting my profile! 😊
 
