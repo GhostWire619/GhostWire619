@@ -10,9 +10,9 @@ Welcome to my GitHub profile! Here's a little bit about me:
 - 💡 **Fun Fact:** I'm short
 
 ## 🛠️ Tech Stack
-- **Languages:** Pyhon Javascript Java C++
+- **Languages:** Python Javascript Java C++
 - **Frameworks & Libraries:** Flask React 
-- **Tools:** 
+- **Tools:** git
 
 ## 🌟 Projects
 - [flask-framework](https://github.com/GhostWire619/flask-framework):Flask-Framework is an open-source Python project that helps you set up a full Flask project environment quickly. It comes with pre-written code for Authentication.
