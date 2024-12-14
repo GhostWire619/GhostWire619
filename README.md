@@ -15,8 +15,8 @@ Welcome to my GitHub profile! Here's a little bit about me:
 - **Tools:** 
 
 ## 🌟 Projects
-- [flask-framework](https://github.com/GhostWire619/flask-framework): Brief description of the project.
-- [Project 2 Name](link): Brief description of the project.
+- [flask-framework](https://github.com/GhostWire619/flask-framework):Flask-Framework is an open-source Python project that helps you set up a full Flask project environment quickly. It comes with pre-written code for Authentication and includes the following features
+- [room-chat](link): A simple chat app for real time communication.
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghostwire619&show_icons=true&theme=radical)
